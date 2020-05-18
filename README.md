@@ -1,7 +1,8 @@
 # Trabajo Práctico N°6
 ### Ejercicio 4:
 * **¿String es un tipo por valor o un tipo por referencia?**   
-Tipo por referencia
+Tipo por referencia   
+**Fuente:** [Microsoft | Docs](https://docs.microsoft.com/es-es/dotnet/csharp/language-reference/builtin-types/reference-types#the-string-type)
 
 * **¿Qué secuencias de escape tiene el tipo string?**   
 \ '- comilla simple    
