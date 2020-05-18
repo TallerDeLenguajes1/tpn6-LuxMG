@@ -14,8 +14,8 @@ Tipo por referencia
 \ f - alimentación de formulario   
 \ n - nueva línea    
 \ r - retorno de carro   
-\ t - pestaña horizontal   
-\ v - pestaña vertical   
+\ t - tabulacion horizontal   
+\ v - tabulacion vertical   
 \ u - caracter Unicode (UTF-16)    
 \ U - caracter Unicode (UTF-32)   
 \ x - caracter Unicode (codigo con longitud variable)    
