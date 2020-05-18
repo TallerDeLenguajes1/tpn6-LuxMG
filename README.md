@@ -16,10 +16,10 @@ Tipo por referencia
 \ r - retorno de carro   
 \ t - pestaña horizontal   
 \ v - pestaña vertical   
-\ u0000 - \ uFFFF - Carácter Unicode    
-\ x0 - \ xFFFF - Carácter Unicode (código con longitud variable)    
-\ U00000000 - \ U0010FFFF - Carácter Unicode (para generar sustitutos)    
-**Fuente:** [RIPTutorial](https://riptutorial.com/es/csharp/topic/39/secuencias-de-escape-de-cadena)
+\ u - caracter Unicode (UTF-16)    
+\ U - caracter Unicode (UTF-32)   
+\ x - caracter Unicode (codigo con longitud variable)    
+**Fuente:** [RIPTutorial](https://riptutorial.com/es/csharp/topic/39/secuencias-de-escape-de-cadena) & [Microsoft | Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/#string-escape-sequences)
 
 * **¿Qué sucede cuando utiliza el carácter @ antes de una cadena de texto?**    
 La cadena se toma de forma literal, no se utilizan las secuencias de escape   
